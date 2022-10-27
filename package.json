@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "npm:nuxt3@^3.0.0-rc.8-27692155.9db2229",
+    "@nuxt/content": "latest",
+    "@types/bootstrap": "5.1.12",
+    "sass": "1.53.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
