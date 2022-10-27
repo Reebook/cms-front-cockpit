@@ -1,7 +1,7 @@
-# Proyecto 1
+# Tarea 3
 
 Realizado por David Alvarez
 
-Publicado en [https://golden-torrone-367e74.netlify.app](https://golden-torrone-367e74.netlify.app)
+Publicado en [https://gentle-arithmetic-60f788.netlify.app/](https://gentle-arithmetic-60f788.netlify.app/)
 
-Proyecto en Github  [https://github.com/Reebook/proyecto01-nuxt](https://github.com/Reebook/proyecto01-nuxt)
+Proyecto en Github  [https://github.com/Reebook/cms-front-cockpit](https://github.com/Reebook/cms-front-cockpit)
